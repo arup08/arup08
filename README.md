@@ -6,10 +6,12 @@
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/arup-basak-963662223/) | basakarup08@gmail.com
 
 ## 🔧 Tech Stack
-- **Languages:** C++, JavaScript, Python  
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express, MongoDB  
-- **Tools:** Git, VS Code, Postman, GitHub  
+- **Languages:** C | C++ | Python | Verilog  
+- **Frontend:** React | Next.js | HTML | CSS | Tailwind  
+- **Backend:** Node.js | Express | MongoDB  
+- **Python Libraries:** NumPy | Pandas | Matplotlib  
+- **Software & Tools:** VSCode | Git | GitHub | MATLAB | LTSpice | Cadence | Vivado | LaTeX  
 
 Thanks for stopping by! 😊
+
 
