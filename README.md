@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 - **Languages:** C | C++ | Python | Verilog  
 - **Frontend:** React | Next.js | HTML | CSS | Tailwind  
-- **Backend:** Node.js | Express | MongoDB  
+- **Backend:** Node.js | Express.js | MongoDB  
 - **Python Libraries:** NumPy | Pandas | Matplotlib  
 - **Software & Tools:** VSCode | Git | GitHub | MATLAB | LTSpice | Cadence | Vivado | LaTeX  
 
